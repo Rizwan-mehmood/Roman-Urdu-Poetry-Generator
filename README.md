@@ -30,6 +30,10 @@ The backend is powered by **FastAPI**, and the user-friendly frontend features a
 git clone <repository_url>
 cd <repository_name>
 ```
+
+### 2. Download the Trained Model
+Download the trained model file from https://drive.google.com/file/d/1lp0AoFf1TAgxwFK6L66alE_c348Q2joV/view?usp=sharing and place it inside the poetry_model/ directory. 
+
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
